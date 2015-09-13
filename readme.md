@@ -4,4 +4,4 @@ Minimal hello world app running on a koa backend. The goal is to get it running 
 
 ## Heroku Link
 
-[Here]("https://evening-mesa-7694.herokuapp.com/")
+[Here](https://evening-mesa-7694.herokuapp.com/)
