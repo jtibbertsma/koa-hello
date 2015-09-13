@@ -1,0 +1,12 @@
+{
+  "name": "koa-hello",
+  "version": "0.0.0",
+  "description": "Smallest possible app running on koa",
+  "keywords": ["hello", "world", "koa"],
+  "homepage": "http://github.com/jtibbertsma/koa-hello",
+  "repository": "http://github.com/jtibbertsma/koa-hello",
+  "scripts": { "start": "node --harmony app.js" },
+  "dependencies": {
+    "koa": "~1.0.0"
+  }
+}
